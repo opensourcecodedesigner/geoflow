@@ -180,5 +180,4 @@ Final Gate State at t=0.6: 1.0
 ## 🤝 Author & Acknowledgments
 
 - **Developer:** Rohith Rao H N
-- **Institution:** AMC Engineering College — Department of Electronics & Communication Engineering
-- **Advisor:** Dr. Balaji Rao K
+
